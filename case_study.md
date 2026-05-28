@@ -1,6 +1,7 @@
-#**CASE STUDY ON LIVE LINKEDIN PROFILE FETCHING VIA URL**   
+**CASE STUDY ON LIVE LINKEDIN PROFILE FETCHING VIA URL** :  
 
 Task Prompt:  
+
 Rate this linkedIn profile on scale of 0 to 100 [profile link]  
 
 Tools Tested:  
