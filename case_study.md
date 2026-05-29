@@ -24,14 +24,14 @@ Reasons Found:
    
    However,when limited profile metadatais available externally ,the AI may be unable to access sufficient information about the profile .Such models rely on realibility threshold {answering only when trustworthy information is available } and avoid hallucinating details.They prioritize safety ,accuracy and compliance over forceful access.
    
-3) Why Did Grok Succeed?
+3) Why Did Grok Succeed?  
    Grok is integrated with X (Twitter) which shares data with LinkedIn.It uses more aggressive live web retrieval{searching the internet in real time}.It may also operate with a less conservative response policy {it offers answer even if not much sure} In the meanwhile, Grok's success may not be consistent across all profiles, all times, or all LinkedIn privacy settings. The case study represents a single successful retrieval under specific conditions.
 
 
       
 Recommendations:
 
-Use Grok when you want AI to read LinkedIn URL directly.Use ChatGPT,Gemini or any other AI systems when you are willing to provide content such as..... for deeper analysis and more  refined strategic feedback.
+Use Grok when you want AI to read LinkedIn URL directly.Use ChatGPT,Gemini or any other AI systems when you are willing to provide content such as screnshots of profile page and texts from headline or "about" section for deeper analysis and more  refined strategic feedback.
 
 The case study illustrates that the differences in results across AI systems can arise from variations in live web retrieval capabilities , tolerance for partial information and platform access -control measures.
 
