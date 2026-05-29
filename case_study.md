@@ -31,9 +31,9 @@ Reasons Found:
       
 Recommendations:
 
-Use Grok when you want AI to read LinkedIn URL directly.Use ChatGPT,Gemini or any other AI systems when you are willing to provide content such as screnshots of profile page and texts from headline or "about" section for deeper analysis and more  refined strategic feedback.
+Use Grok when you want AI to read LinkedIn URL directly.Use ChatGPT,Gemini or any other AI systems when you are willing to provide content such as screenshots of profile page and texts from headline or "about" section for deeper analysis and more  refined strategic feedback.
 
-The case study illustrates that the differences in results across AI systems can arise from variations in live web retrieval capabilities , tolerance for partial information and platform access -control measures.
+The case study illustrates that the differences in results across AI systems can arise from variations in live web retrieval capabilities , tolerance for partial information and LinkedIn's access -control measures.
 
 
    
